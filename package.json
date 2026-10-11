@@ -1,0 +1,27 @@
+{
+  "name": "tech_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArusTaimika/tech_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ArusTaimika/tech_blog/issues"
+  },
+  "homepage": "https://github.com/ArusTaimika/tech_blog#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.6"
+  }
+}
