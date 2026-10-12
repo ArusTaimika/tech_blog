@@ -1,5 +1,5 @@
 ---
-title: "[tc・netem入門]Linuxでネットワーク遅延を再現する"
+title: "[tc・netem]Linuxでネットワーク遅延の再現・使用上の注意点"
 emoji: "🌐"
 type: "tech"
 topics:
